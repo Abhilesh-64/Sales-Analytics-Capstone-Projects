@@ -11,6 +11,33 @@ employees	- Employee data including job title, hire date, and region
 suppliers -	Supplier data with company and region information
 shippers -	Shipping company information
 
+
+Sales-Analytics-Capstone-SQL-PowerBI/
+│
+├── 📁 Dataset/
+│   ├── categories.csv
+│   ├── customers.csv
+│   ├── employees.csv
+│   ├── order_details.csv
+│   ├── orders.csv
+│   ├── products.csv
+│   ├── shippers.csv
+│   └── suppliers.csv
+│
+├── 📁 SQL_Analysis/
+│   └── Sales_Analytics_SQL_Queries.sql
+│
+├── 📁 PowerBI_Dashboard/
+│   ├── Sales_Analytics_Dashboard.pbix
+│   └── Dashboard_Screenshots/
+│        ├── dashboard_1.png
+│        ├── dashboard_2.png
+│
+└── README.md
+
+
+
+
 **SQL Analysis – Key Business Questions**
 
 1. Average number of orders per customer and identification of high-value repeat customers.
