@@ -32,15 +32,19 @@ shippers -	Shipping company information
 **1️⃣ Customer Insights**
 
 🌍 Map Chart: Customer distribution across continents (North America, Europe, Asia).
+
 <img width="349" height="268" alt="image" src="https://github.com/user-attachments/assets/d32215d2-e3a7-48cd-a4d3-447aec7663c1" />
 
 📊 Bar Chart: Count of customers by ID and by month.
+
 <img width="342" height="341" alt="image" src="https://github.com/user-attachments/assets/17c4d715-3d19-44b7-bc83-0ed732a3176e" />
 
 🧭 Pie Chart: Distribution of contact titles by region.
+
 <img width="491" height="273" alt="image" src="https://github.com/user-attachments/assets/24dfa48e-30e3-4503-9c9a-318240e639b2" />
 
 📈 Line Chart: Yearly growth trend in customer orders.
+
 <img width="501" height="322" alt="image" src="https://github.com/user-attachments/assets/6b703651-88d0-4f4e-a6cc-df8659d3009c" />
 
 **2️⃣ Employee Insights**
